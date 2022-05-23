@@ -1,7 +1,7 @@
 # About me (German)
 Ich bin der @deminosa, lebe in Hamburg und Programmiere gerne mit Minecraft.
 
-## Was für Preojecte laufen gerade?
+## Was für Projekte laufen gerade?
 Derzeit arbeite ich an Folgenden Projecte:
 - YukiLib (Eine Minecraft Bikilothk)
 - Discord Text RPG (Für DE und EN)
