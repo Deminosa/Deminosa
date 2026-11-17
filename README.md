@@ -2,9 +2,24 @@
 Ich bin der @deminosa, lebe in Hamburg und Programmiere gerne mit Minecraft.
 
 ## Was für Projekte laufen gerade?
-Derzeit arbeite ich an Folgenden Projecte:
-- ~YukiLib (Eine Minecraft Bikilothk)~ // Projekt Eingestellt.
-- Werwolf mit dem Namen: Düsterwald
+**Öffentliche Projekte**
+- ~YukiLib (Eine Minecraft Bikilothk)~ // `Minecraft`
+- ~Minecraft-2FA~ // `Minecraft`
+- ~RPG-Project~ // `Minecraft`
+- ~RisenWorld_Lobby~ // `Minecraft`
+- ~ACM~ // `Minecraft`
+
+**Private Projekte**
+- ~StromcasterX~ // `Discord Bot`
+- ~Minecraft-Space-RPG~ // `Minecraft`
+- ~ShilaGames-Coins~ // `Minecraft`
+- ~ShilaGames-Lobby~ // `Minecraft`
+- ~Booting~ // `GoDot 3.5.2 LTS`
+- Werwolf mit dem Namen: Düsterwald // `Java Server & GoDot 4.7-Stable`
+
+***Legende***
+- ~Text~ -> Projekt Eingestellt
+- Text -> Projekt läuft noch.
 
 ## Düsterwald 
 - SILVA (S1) ![](http://167.86.84.207:3001/api/badge/15/status?style=flat-square)
